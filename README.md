@@ -16,26 +16,26 @@ Funcionalidades
 
 Formulário para cadastro de chamado com os campos:
 
-Nome
+#Nome
 
-Email
+#Email
 
-Telefone
+#Telefone
 
-Descrição do problema
+#Descrição do problema
 
-Geração automática de número de protocolo
+#Geração automática de número de protocolo
 
-Design responsivo e interativo
+#Design responsivo e interativo
 
-Rodapé com informações de contato
+#Rodapé com informações de contato
 
 Melhorias Futuras!
 
-Armazenamento dos chamados em um banco de dados.
+- Armazenamento dos chamados em um banco de dados.
 
-Integração com API para envio automático dos chamados.
+- Integração com API para envio automático dos chamados.
 
-Sistema de login para acompanhamento dos chamados.
+= Sistema de login para acompanhamento dos chamados.
 
-Notificações por email sobre o status do chamado.
+- Notificações por email sobre o status do chamado.
